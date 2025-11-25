@@ -1,20 +1,20 @@
 {
-  "last_mode": "quiz",
-  "last_concept": "variables",
+  "last_mode": "teach_back",
+  "last_concept": "conditionals",
   "mastery": {
-    "loops": {
+    "functions": {
       "times_explained": 1,
       "times_quizzed": 0,
-      "times_taught_back": 0,
-      "last_score": null,
-      "avg_score": null
+      "times_taught_back": 4,
+      "last_score": 14,
+      "avg_score": 17.5
     },
-    "variables": {
+    "conditionals": {
       "times_explained": 2,
-      "times_quizzed": 2,
-      "times_taught_back": 3,
-      "last_score": 100,
-      "avg_score": 67.5
+      "times_quizzed": 0,
+      "times_taught_back": 1,
+      "last_score": 56,
+      "avg_score": 56
     }
   }
 }
