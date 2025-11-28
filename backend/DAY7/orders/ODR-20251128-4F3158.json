@@ -1,0 +1,20 @@
+{
+    "order_id": "ODR-20251128-4F3158",
+    "customer_name": "bidit",
+    "delivery_address": "agra",
+    "order_timestamp": "2025-11-28T10:51:35.065493",
+    "status": "Placed",
+    "items": [
+        {
+            "id": "G004",
+            "name": "Potato",
+            "price_per_unit": 40.0,
+            "quantity_ordered": 2.0,
+            "unit": "kilogram",
+            "line_total": 80.0
+        }
+    ],
+    "subtotal": 80.0,
+    "delivery_fee": 40.0,
+    "grand_total": 120.0
+}
