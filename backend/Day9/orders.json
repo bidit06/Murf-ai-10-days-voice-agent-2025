@@ -1,0 +1,31 @@
+[
+  {
+    "id": "order-9af082bb",
+    "items": [
+      {
+        "product_id": "lv-shirt-001",
+        "name": "LV Signature T-Shirt",
+        "quantity": 1,
+        "unit_price": 25000,
+        "line_total": 25000
+      },
+      {
+        "product_id": "lv-shirt-001",
+        "name": "LV Signature T-Shirt",
+        "quantity": 1,
+        "unit_price": 25000,
+        "line_total": 25000
+      },
+      {
+        "product_id": "lv-shoes-001",
+        "name": "LV Leather Sneakers",
+        "quantity": 1,
+        "unit_price": 60000,
+        "line_total": 60000
+      }
+    ],
+    "total": 110000,
+    "currency": "INR",
+    "created_at": "2025-11-30T14:05:42.707138Z"
+  }
+]
